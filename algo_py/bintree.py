@@ -24,3 +24,5 @@ class BinTree:
         self.key = key
         self.left = left
         self.right = right
+
+
